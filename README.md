@@ -11,7 +11,7 @@ Scripts adicionados diariamente, conforme são desenvolvidos, ou adaptados(corri
 
 - Linkedin: [Michael Fortes](https://www.linkedin.com/in/mikefortes/)
 - Twitter: [@mikes_script
-](https://twitter.com/mikes_script) - 
+](https://twitter.com/mikes_script)
 - Email: mromeiro.f@gmail.com
 
 Project Link: [https://github.com/Punkays/ZBX-Automations](https://github.com/Punkays/ZBX-Automations)
