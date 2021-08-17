@@ -1,4 +1,4 @@
-# ZBX-Automations
+# ZBX-Automations - Extractor
  Scripts de automação - Zabbix - Extractor
 
 O extractor foi criado para extrair grandes volumes de dados da base de dados, algo que não é possivel dentro do front-end do Zabbix.
