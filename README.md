@@ -14,4 +14,4 @@ Scripts adicionados diariamente, conforme são desenvolvidos, ou adaptados(corri
 ](https://twitter.com/mikes_script)
 - Email: mromeiro.f@gmail.com
 
-Project Link: [https://github.com/Punkays/ZBX-Automations](https://github.com/MikeFortes/ZBX-Automations)
+Project Link: [https://github.com/MikeFortes/ZBX-Automations](https://github.com/MikeFortes/ZBX-Automations)
