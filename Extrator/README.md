@@ -93,4 +93,4 @@ Post sobre o script com mais detalhes quanto ao funcionamento:
 ](https://twitter.com/mikes_script)
 - Email: mromeiro.f@gmail.com
 
-Project Link: [https://github.com/Punkays/ZBX-Automations](https://github.com/MikeFortes/ZBX-Automations)
+Project Link: [https://github.com/MikeFortes/ZBX-Automations](https://github.com/MikeFortes/ZBX-Automations)
